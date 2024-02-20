@@ -14,7 +14,7 @@ remote API calls managed by [dio](https://pub.dev/packages/dio), and local data 
 utilizing [Isar](https://pub.dev/packages/isar),
 FilmKu offers a comprehensive solution for movie enthusiasts.
 if you want to check same implementation in RiverPod check
-this [Repository](https://github.com/Iamzaryab/Movie-Application-Flutter-Clean-Architecture-RiverPod)
+this [Repository](https://github.com/ArtemFiniuk/Flutter-Movie-App-with-Clean-Architecture-and-Bloc-State-Management.git)
 
 
 [//]: # (Insert Getting Started Hyperlink Here)
@@ -66,7 +66,7 @@ The project follows the principles of clean architecture, categorizing code into
 - We are employing **[Bloc](https://pub.dev/packages/flutter_bloc)** for our state management
   solution.
 - If you want to check Riverpod implementation for same application, you can review the code in
-  this [Repository](https://github.com/ArtemFiniuk/Movie-Application-Flutter-Clean-Architecture-RiverPod)
+  this [Repository](https://github.com/ArtemFiniuk/Flutter-Movie-App-with-Clean-Architecture-and-Bloc-State-Management.git)
 
 ### Dependency Injection
 
@@ -332,7 +332,7 @@ To set up the FilmKu Flutter Movie Application on your local machine, follow the
    repository:
 
    ```bash
-   git clone https://github.com/ArtemFiniuk/Movie-Application-Flutter-Clean-Architecture.git
+   git clone https://github.com/ArtemFiniuk/Flutter-Movie-App-with-Clean-Architecture-and-Bloc-State-Management.git
 2. Create a `.env` file in the root directory of the project. Add the following lines,
    replacing `ADD YOUR API KEY` with your actual API key. You can generate your API key
    from [here](https://www.themoviedb.org/settings/api):
