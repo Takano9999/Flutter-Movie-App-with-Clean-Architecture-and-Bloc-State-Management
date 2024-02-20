@@ -66,7 +66,7 @@ The project follows the principles of clean architecture, categorizing code into
 - We are employing **[Bloc](https://pub.dev/packages/flutter_bloc)** for our state management
   solution.
 - If you want to check Riverpod implementation for same application, you can review the code in
-  this [Repository](https://github.com/Iamzaryab/Movie-Application-Flutter-Clean-Architecture-RiverPod)
+  this [Repository](https://github.com/ArtemFiniuk/Movie-Application-Flutter-Clean-Architecture-RiverPod)
 
 ### Dependency Injection
 
@@ -332,7 +332,7 @@ To set up the FilmKu Flutter Movie Application on your local machine, follow the
    repository:
 
    ```bash
-   git clone https://github.com/Iamzaryab/Movie-Application-Flutter-Clean-Architecture.git
+   git clone https://github.com/ArtemFiniuk/Movie-Application-Flutter-Clean-Architecture.git
 2. Create a `.env` file in the root directory of the project. Add the following lines,
    replacing `ADD YOUR API KEY` with your actual API key. You can generate your API key
    from [here](https://www.themoviedb.org/settings/api):
